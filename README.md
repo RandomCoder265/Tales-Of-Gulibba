@@ -1,3 +1,3 @@
 # Tales-Of-Gulibba
 my very first game.
-literally just click on the .exe file dumb dumb
+click the green code button and select "Download Zip"
